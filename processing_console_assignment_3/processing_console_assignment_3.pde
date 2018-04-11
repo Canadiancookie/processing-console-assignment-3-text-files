@@ -11,6 +11,10 @@ void setup() {
   int customername = 0;
   int customerorder = 1;
   int customerdrink = 2;
+  String[] lines2 = loadStrings("listspecial.txt");
+  int special1 = 0;
+  int special2 = 1;
+  int special3 = 2;
   
   println("Good evening " + lines[customername] +". Nice to meet you!");
   println("");
