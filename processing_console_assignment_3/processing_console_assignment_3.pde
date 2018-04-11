@@ -18,7 +18,7 @@ void setup() {
   
   println("Good evening " + lines[customername] +". Nice to meet you!");
   println("");
-  print("Our daily specials are Spaghetti and Meatballs, The Whopper, and The Big Mac, ");
+  print("Our daily specials are " + lines2[special1] + ", " + lines2[special2] + ", " + "and " + lines2[special3] + ", ");
   println("and we currently have three types of drinks on the menu; Lemonade, Coca-Cola, and Hot Chocolate.");
   println("");
   println("I see that you are ordering the " + lines[customerorder] + " with a " + lines[customerdrink] + ".");
