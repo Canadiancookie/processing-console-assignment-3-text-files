@@ -2,7 +2,7 @@
  * Processing Console Assignment 3
  * by Brayden S.
  * 
- * 
+ * Simple virtual resturant using strings for menu items
  * 
  */
  
